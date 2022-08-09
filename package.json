@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Configured webpack environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Kibirige/webpack-setup.git"
+  },
+  "author": "Kibirige",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/John-Kibirige/webpack-setup/issues"
+  },
+  "homepage": "https://github.com/John-Kibirige/webpack-setup#readme"
+}
